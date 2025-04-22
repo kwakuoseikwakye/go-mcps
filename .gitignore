@@ -1,0 +1,22 @@
+# Binaries
+/bin/
+/build/
+*.exe
+*.out
+
+# Vendor
+/vendor/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Configs
+.env
+*.local.yaml
+/.history
+/.vscode
+/.DS_Store
